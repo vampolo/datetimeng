@@ -1,15 +1,16 @@
 This file requires editing
 ==========================
 
-Note to the author: Please add something informative to this README *before*
-releasing your software, as `a little documentation goes a long way`_.  Both
-README.rst (this file) and NEWS.txt (release notes) will be included in your
-package metadata which gets displayed in the PyPI page for your project.
+The aim of this project is to enhance the datetime module to add nanosecond granularity
 
-You can take a look at the README.txt of other projects, such as repoze.bfg
-(http://bfg.repoze.org/trac/browser/trunk/README.txt) for some ideas.
+For info look at `issue #15443`_
 
-.. _`a little documentation goes a long way`: http://www.martinaspeli.net/articles/a-little-documentation-goes-a-long-way
+The base code comes from `cpython commit 63184:afdb53323065`_
+The main discussion about the basic code is at `issue 5516`_
+
+.. _`cpython commit 63184:afdb53323065`: http://hg.python.org/cpython/annotate/afdb53323065/Lib/datetime.py#1
+.. _`issue #15443`: http://bugs.python.org/issue15443
+.. _`issue #5516`: http://bugs.python.org/issue5516
 
 Credits
 -------

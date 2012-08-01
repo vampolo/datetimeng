@@ -1,0 +1,6 @@
+import sys
+print sys.path
+import datetimeng
+
+def test_datetimeng():
+    print 'hello world'

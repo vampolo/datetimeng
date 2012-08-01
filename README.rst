@@ -7,7 +7,7 @@ For info look at `issue #15443`_
 
 The base code comes from `cpython commit 63184:afdb53323065`_
 
-The main discussion about the basic code is at `issue 5516`_
+The main discussion about the basic code is at `issue #5516`_
 
 .. _`cpython commit 63184:afdb53323065`: http://hg.python.org/cpython/annotate/afdb53323065/Lib/datetime.py#1
 .. _`issue #15443`: http://bugs.python.org/issue15443

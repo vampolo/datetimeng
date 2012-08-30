@@ -1,0 +1,9 @@
+**************************************************************************
+            !!! THIS FILE IS NO LONGER MAINTAINED !!!
+**************************************************************************
+
+When Python 2.3 is released, datetime docs will be in Python's Library
+Reference Manual.  Before then, you can browse the development docs:
+
+    http://www.python.org/dev/doc/devel/lib/module-datetime.html
+**************************************************************************

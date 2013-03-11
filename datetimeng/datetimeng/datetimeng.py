@@ -18,8 +18,8 @@ Sources for Time zone and DST data: http://www.twinsun.com/tz/tz-link.htm
 
 This was originally copied from the sandbox of the CPython CVS repository.
 Thanks to Tim Peters for suggesting using it.
-import datetime
 """
+
 import datetime
 import time as _time
 

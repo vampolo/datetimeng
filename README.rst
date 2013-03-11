@@ -6,11 +6,13 @@ The aim of this project is to enhance the datetime module to add nanosecond gran
 The project is in beta quality.
 
 The goal of this library is to:
+
 - have a datetime like module with nanosecond support
 - datetime retrocompatibility
 - be fast
 
 The library has basically the same api of the datetime module but class names have been sanitized to camel cased so you have:
+
 - datetimeng.Date
 - datetimeng.DateTime
 - datetimeng.Time
